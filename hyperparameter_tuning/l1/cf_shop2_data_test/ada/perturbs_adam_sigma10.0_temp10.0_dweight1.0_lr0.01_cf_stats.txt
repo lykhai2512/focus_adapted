@@ -1,1 +1,1 @@
-{"dataset": "cf_shop2_data_test", "model_type": "ada", "opt": "adam", "distance_function": "l1", "sigma": 10.0, "temp": 10.0, "dweight": 1.0, "lr": 0.01, "unchanged_ever": 510, "mean_dist": 0.022836502967997857}
+{"dataset": "cf_shop2_data_test", "model_type": "ada", "opt": "adam", "distance_function": "l1", "sigma": 10.0, "temp": 10.0, "dweight": 1.0, "lr": 0.01, "unchanged_ever": 3274, "mean_dist": 0.05505232489619001, "mean_relative_dist": 0.2344812010105757, "percent_relative_dist_lt_1": 10.94890510948905}
