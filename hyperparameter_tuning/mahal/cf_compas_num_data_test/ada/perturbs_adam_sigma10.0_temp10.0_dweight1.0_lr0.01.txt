@@ -1,0 +1,502 @@
+model_ada_cf_compas_num_iter100_depth2_lr0.1 adam mahal --sigma=10.0 --temp=10.0 --distance_weight=1.0 --lr=0.01
+iteration: 0
+loss: 0.858458293446305 unchanged: 1435.0 prob: 0.858458293446305 mean dist: 2.495758482716918e-17 mean relative dist: 0.033736982859016995 sigma: 10.0 temp: 10.0
+Unchanged ever: 1435
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 1
+loss: 0.6981861262061902 unchanged: 1327.0 prob: 0.6806000026588888 mean dist: 0.017586123547301633 mean relative dist: 0.1619312997413832 sigma: 10.0 temp: 10.0
+Unchanged ever: 1234
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 2
+loss: 0.7232730029336729 unchanged: 1283.0 prob: 0.6328431578677748 mean dist: 0.09042984506589792 mean relative dist: 0.08663581448303366 sigma: 10.0 temp: 10.0
+Unchanged ever: 1111
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 3
+loss: 0.6377977072222921 unchanged: 1208.0 prob: 0.5931468083681233 mean dist: 0.04465089885416867 mean relative dist: 0.12638766634872775 sigma: 10.0 temp: 10.0
+Unchanged ever: 1066
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 4
+loss: 0.6115292947528316 unchanged: 973.0 prob: 0.5469207589275668 mean dist: 0.06460853582526452 mean relative dist: 0.15558287686129224 sigma: 10.0 temp: 10.0
+Unchanged ever: 905
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 5
+loss: 0.5605456360678592 unchanged: 899.0 prob: 0.48067251797530147 mean dist: 0.07987311809255808 mean relative dist: 0.16435595887183724 sigma: 10.0 temp: 10.0
+Unchanged ever: 838
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 6
+loss: 0.5439437268065568 unchanged: 932.0 prob: 0.4597333731111148 mean dist: 0.0842103536954419 mean relative dist: 0.1609812121729622 sigma: 10.0 temp: 10.0
+Unchanged ever: 822
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 7
+loss: 0.5555672465603986 unchanged: 1021.0 prob: 0.47282177525708746 mean dist: 0.08274547130331086 mean relative dist: 0.15022043676566676 sigma: 10.0 temp: 10.0
+Unchanged ever: 817
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 8
+loss: 0.5764321465853617 unchanged: 1126.0 prob: 0.49854520429439714 mean dist: 0.0778869422909645 mean relative dist: 0.13426106236429458 sigma: 10.0 temp: 10.0
+Unchanged ever: 812
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 9
+loss: 0.6015339920596289 unchanged: 1288.0 prob: 0.5313021821005947 mean dist: 0.07023180995903366 mean relative dist: 0.11660111687872489 sigma: 10.0 temp: 10.0
+Unchanged ever: 805
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 10
+loss: 0.6328058538037427 unchanged: 1385.0 prob: 0.5715005332339416 mean dist: 0.061305320569801605 mean relative dist: 0.10297362143615474 sigma: 10.0 temp: 10.0
+Unchanged ever: 803
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 11
+loss: 0.6417775655561264 unchanged: 1411.0 prob: 0.5875638325337771 mean dist: 0.05421373302234999 mean relative dist: 0.09776250372736109 sigma: 10.0 temp: 10.0
+Unchanged ever: 802
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 12
+loss: 0.6386142222195195 unchanged: 1449.0 prob: 0.5871570367791574 mean dist: 0.05145718544036205 mean relative dist: 0.09744698618004397 sigma: 10.0 temp: 10.0
+Unchanged ever: 802
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 13
+loss: 0.6493108631546316 unchanged: 1344.0 prob: 0.5980745033086395 mean dist: 0.05123635984599271 mean relative dist: 0.09796260577607448 sigma: 10.0 temp: 10.0
+Unchanged ever: 802
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 14
+loss: 0.6194585790462172 unchanged: 1323.0 prob: 0.5680666719486722 mean dist: 0.051391907097545216 mean relative dist: 0.09828590240384391 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 15
+loss: 0.6210886958378681 unchanged: 1188.0 prob: 0.5696963139135511 mean dist: 0.0513923819243167 mean relative dist: 0.10081751148986905 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 16
+loss: 0.590083053276846 unchanged: 1153.0 prob: 0.5375444178374089 mean dist: 0.05253863543943695 mean relative dist: 0.10396296370849917 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 17
+loss: 0.5821459465621902 unchanged: 1137.0 prob: 0.5280969872738661 mean dist: 0.05404895928832427 mean relative dist: 0.10512835840831591 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 18
+loss: 0.5749711145692763 unchanged: 1152.0 prob: 0.5203996520881634 mean dist: 0.054571462481112505 mean relative dist: 0.10393703951093479 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 19
+loss: 0.5846318381448687 unchanged: 1157.0 prob: 0.5307482143621286 mean dist: 0.053883623782739726 mean relative dist: 0.10258748993524416 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 20
+loss: 0.5858782184718144 unchanged: 1171.0 prob: 0.5327970027532821 mean dist: 0.05308121571853246 mean relative dist: 0.1018557266962034 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 21
+loss: 0.5890335795381222 unchanged: 1262.0 prob: 0.53638020654658 mean dist: 0.052653372991542116 mean relative dist: 0.10125601937036831 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 22
+loss: 0.6154275063159809 unchanged: 1262.0 prob: 0.5630499915312084 mean dist: 0.052377514784772435 mean relative dist: 0.10035333757528876 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 23
+loss: 0.6077904298916632 unchanged: 1266.0 prob: 0.5557574074292863 mean dist: 0.052033022462377225 mean relative dist: 0.09966325141901766 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 24
+loss: 0.6082369614549691 unchanged: 1283.0 prob: 0.5564538393676733 mean dist: 0.0517831220872959 mean relative dist: 0.09955276012322202 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 25
+loss: 0.6045506772542961 unchanged: 1303.0 prob: 0.5527282563179537 mean dist: 0.05182242093634314 mean relative dist: 0.10033701814662704 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 26
+loss: 0.6103348479562761 unchanged: 1266.0 prob: 0.5580345325089303 mean dist: 0.052300315447346576 mean relative dist: 0.1027408496963267 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 27
+loss: 0.5997492571623684 unchanged: 1224.0 prob: 0.5461555297141437 mean dist: 0.05359372744822441 mean relative dist: 0.10618700863627584 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 28
+loss: 0.5899961562028266 unchanged: 1150.0 prob: 0.5346382448018033 mean dist: 0.05535791140102345 mean relative dist: 0.10958697542654712 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 29
+loss: 0.570795620216013 unchanged: 1148.0 prob: 0.5137541509528686 mean dist: 0.057041469263144476 mean relative dist: 0.1108231746736796 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 30
+loss: 0.5729231778344359 unchanged: 1143.0 prob: 0.5153007844016649 mean dist: 0.057622393432770674 mean relative dist: 0.10988394237337953 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 31
+loss: 0.5747815253302866 unchanged: 1202.0 prob: 0.5176848548317943 mean dist: 0.05709667049849208 mean relative dist: 0.10788559116925145 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 32
+loss: 0.5937580764450917 unchanged: 1204.0 prob: 0.5376818515702603 mean dist: 0.05607622487483123 mean relative dist: 0.10559878406278828 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 33
+loss: 0.5864742816748749 unchanged: 1223.0 prob: 0.5315713727298785 mean dist: 0.05490290894499637 mean relative dist: 0.1035012469871536 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 34
+loss: 0.5880681653469121 unchanged: 1293.0 prob: 0.534212788604275 mean dist: 0.05385537674263685 mean relative dist: 0.10216362429360792 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 35
+loss: 0.6060714249422896 unchanged: 1300.0 prob: 0.5528432774903621 mean dist: 0.05322814745192769 mean relative dist: 0.10165886687124007 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 36
+loss: 0.6058871601024789 unchanged: 1259.0 prob: 0.5528739873440328 mean dist: 0.05301317275844607 mean relative dist: 0.10194909978655471 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 37
+loss: 0.5980931945291689 unchanged: 1249.0 prob: 0.5449197491356159 mean dist: 0.053173445393552794 mean relative dist: 0.1024829138196454 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 38
+loss: 0.6054899492227732 unchanged: 1243.0 prob: 0.5520637105083369 mean dist: 0.05342623871443636 mean relative dist: 0.10297848797662017 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 39
+loss: 0.5956380162409648 unchanged: 1204.0 prob: 0.5419677650511497 mean dist: 0.05367025118981499 mean relative dist: 0.10365087328725547 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 40
+loss: 0.5856833699554005 unchanged: 1147.0 prob: 0.5316701431400116 mean dist: 0.05401322681538872 mean relative dist: 0.10399337577706791 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 41
+loss: 0.5684357484139462 unchanged: 1161.0 prob: 0.5142269636704405 mean dist: 0.05420878474350548 mean relative dist: 0.10337873401300869 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 42
+loss: 0.57168981438492 unchanged: 1222.0 prob: 0.5177872435205636 mean dist: 0.053902570864356826 mean relative dist: 0.10220756078027043 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 43
+loss: 0.5881758497209597 unchanged: 1296.0 prob: 0.5348711316672877 mean dist: 0.05330471805367151 mean relative dist: 0.10106106432576976 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 44
+loss: 0.6113032250255678 unchanged: 1305.0 prob: 0.5585880546106644 mean dist: 0.052715170414903076 mean relative dist: 0.10104733310951251 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 45
+loss: 0.611967107609549 unchanged: 1215.0 prob: 0.5592422072564318 mean dist: 0.05272490035311748 mean relative dist: 0.10230258653873107 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 46
+loss: 0.5835726768662378 unchanged: 1257.0 prob: 0.5301872123549817 mean dist: 0.0533854645112558 mean relative dist: 0.10354659673478657 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 47
+loss: 0.6005500105618066 unchanged: 1151.0 prob: 0.5465061558800786 mean dist: 0.054043854681728516 mean relative dist: 0.10471637078861995 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 48
+loss: 0.569014403801902 unchanged: 1178.0 prob: 0.5143768261297009 mean dist: 0.05463757767220121 mean relative dist: 0.10485028954744767 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 49
+loss: 0.5738952156166242 unchanged: 1260.0 prob: 0.5191858541899128 mean dist: 0.05470936142671132 mean relative dist: 0.10418422895895947 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 50
+loss: 0.5979665890453497 unchanged: 1261.0 prob: 0.5435824994171462 mean dist: 0.05438408962820342 mean relative dist: 0.1029843158915192 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 51
+loss: 0.5986095050062246 unchanged: 1233.0 prob: 0.544799849493143 mean dist: 0.053809655513081374 mean relative dist: 0.10217017420894581 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 52
+loss: 0.5920275294801721 unchanged: 1243.0 prob: 0.5386241108841261 mean dist: 0.05340341859604648 mean relative dist: 0.10195581064465019 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 53
+loss: 0.5952881499811673 unchanged: 1228.0 prob: 0.5420382070565878 mean dist: 0.053249942924579435 mean relative dist: 0.10275533159644457 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 54
+loss: 0.5867657124295331 unchanged: 1221.0 prob: 0.5331624051311923 mean dist: 0.05360330729834107 mean relative dist: 0.10362709981308726 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 55
+loss: 0.5893211933108807 unchanged: 1199.0 prob: 0.5352982755697931 mean dist: 0.05402291774108795 mean relative dist: 0.10443682976771396 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 56
+loss: 0.5784930552762448 unchanged: 1161.0 prob: 0.5240450079827065 mean dist: 0.05444804729353836 mean relative dist: 0.10460834371298232 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 57
+loss: 0.5746129134845862 unchanged: 1222.0 prob: 0.5200662821365741 mean dist: 0.05454663134801199 mean relative dist: 0.10340078368864658 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 58
+loss: 0.5838033051805072 unchanged: 1250.0 prob: 0.5298531391832806 mean dist: 0.05395016599722665 mean relative dist: 0.10253825038353154 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 59
+loss: 0.5885899581750689 unchanged: 1261.0 prob: 0.5350635192808535 mean dist: 0.05352643889421542 mean relative dist: 0.10217946997670281 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 60
+loss: 0.5965777777342868 unchanged: 1189.0 prob: 0.5432132500412478 mean dist: 0.053364527693039045 mean relative dist: 0.10243366842507928 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 61
+loss: 0.5816077172011354 unchanged: 1180.0 prob: 0.5280812517126985 mean dist: 0.05352646548843676 mean relative dist: 0.10211975531792486 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 62
+loss: 0.5783310654791394 unchanged: 1296.0 prob: 0.5249487994415483 mean dist: 0.05338226603759102 mean relative dist: 0.10091018765862456 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 63
+loss: 0.6076804563702711 unchanged: 1306.0 prob: 0.5549069547626367 mean dist: 0.05277350160763475 mean relative dist: 0.10086311925553179 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 64
+loss: 0.6104010184231223 unchanged: 1215.0 prob: 0.5576674669907775 mean dist: 0.05273355143234535 mean relative dist: 0.10187601099560271 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 65
+loss: 0.5844196743611835 unchanged: 1230.0 prob: 0.5312011339447653 mean dist: 0.05321854041641831 mean relative dist: 0.10233352365917497 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 66
+loss: 0.5841505916258584 unchanged: 1218.0 prob: 0.5307345129515221 mean dist: 0.053416078674336114 mean relative dist: 0.10291617692518612 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 67
+loss: 0.5875084728086184 unchanged: 1243.0 prob: 0.5338179887946473 mean dist: 0.05369048401397122 mean relative dist: 0.10308810031663575 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 68
+loss: 0.5913479894207107 unchanged: 1179.0 prob: 0.5375749201054638 mean dist: 0.05377306931524646 mean relative dist: 0.10359378661495806 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 69
+loss: 0.5789362614717203 unchanged: 1233.0 prob: 0.5249227012876755 mean dist: 0.054013560184044636 mean relative dist: 0.10382806676958015 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 70
+loss: 0.5893609848072896 unchanged: 1218.0 prob: 0.5352405841064737 mean dist: 0.05412040070081611 mean relative dist: 0.10429971474488176 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 71
+loss: 0.5841753533634507 unchanged: 1195.0 prob: 0.5298342126123905 mean dist: 0.05434114075105993 mean relative dist: 0.10446129158977578 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 72
+loss: 0.5863120313682991 unchanged: 1233.0 prob: 0.5318939428665747 mean dist: 0.05441808850172467 mean relative dist: 0.10399144423448267 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 73
+loss: 0.5844816841510206 unchanged: 1210.0 prob: 0.5302490836111738 mean dist: 0.05423260053984677 mean relative dist: 0.10314750239179393 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 74
+loss: 0.5816479721039098 unchanged: 1259.0 prob: 0.5277711188469297 mean dist: 0.05387685325698025 mean relative dist: 0.10243030669070154 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 75
+loss: 0.5973436482996294 unchanged: 1283.0 prob: 0.5438012221745644 mean dist: 0.05354242612506513 mean relative dist: 0.10256758165082293 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 76
+loss: 0.6023363249490657 unchanged: 1193.0 prob: 0.5487680248931162 mean dist: 0.05356830005594931 mean relative dist: 0.10321943158560158 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 77
+loss: 0.5802545072642845 unchanged: 1172.0 prob: 0.526406597126654 mean dist: 0.053847910137630815 mean relative dist: 0.10340529728464652 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 78
+loss: 0.57270184921046 unchanged: 1184.0 prob: 0.5187629908498942 mean dist: 0.053938858360565924 mean relative dist: 0.10306715068010153 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 79
+loss: 0.5772100375248548 unchanged: 1244.0 prob: 0.5234130367067913 mean dist: 0.05379700081806396 mean relative dist: 0.10222373203010607 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 80
+loss: 0.592662097906001 unchanged: 1316.0 prob: 0.539280827726375 mean dist: 0.053381270179625795 mean relative dist: 0.10177543308704981 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 81
+loss: 0.6100187554697757 unchanged: 1253.0 prob: 0.5568683961688746 mean dist: 0.05315035930090105 mean relative dist: 0.10251333317364172 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 82
+loss: 0.5926795975503253 unchanged: 1278.0 prob: 0.5391610524930066 mean dist: 0.053518545057318366 mean relative dist: 0.10323231035603381 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 83
+loss: 0.5995761436805641 unchanged: 1191.0 prob: 0.5456779078903653 mean dist: 0.05389823579019955 mean relative dist: 0.10415620185741052 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 84
+loss: 0.5769113369700485 unchanged: 1190.0 prob: 0.5225430884107937 mean dist: 0.0543682485592547 mean relative dist: 0.10454867034996326 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 85
+loss: 0.5781446355245524 unchanged: 1143.0 prob: 0.5235961733663346 mean dist: 0.0545484621582179 mean relative dist: 0.10427647556955272 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 86
+loss: 0.5697247354825984 unchanged: 1163.0 prob: 0.5153569763675245 mean dist: 0.05436775911507337 mean relative dist: 0.10308799915804111 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 87
+loss: 0.5755300121409296 unchanged: 1212.0 prob: 0.5217662160931739 mean dist: 0.05376379604775609 mean relative dist: 0.10133020694118686 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 88
+loss: 0.580862446644967 unchanged: 1260.0 prob: 0.5279697963296821 mean dist: 0.05289265031528487 mean relative dist: 0.0997004225499229 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 89
+loss: 0.5909199677680169 unchanged: 1325.0 prob: 0.5388143787341997 mean dist: 0.052105589033816783 mean relative dist: 0.09919341178860681 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 90
+loss: 0.6205144980599177 unchanged: 1327.0 prob: 0.5686443769852084 mean dist: 0.0518701210747094 mean relative dist: 0.1000503296019429 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 91
+loss: 0.620256311326952 unchanged: 1251.0 prob: 0.5679599756072288 mean dist: 0.052296335719722885 mean relative dist: 0.10177578319117346 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 92
+loss: 0.5996695608835871 unchanged: 1148.0 prob: 0.5465210430345177 mean dist: 0.05314851784906924 mean relative dist: 0.10363717531832162 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 93
+loss: 0.5655367868027846 unchanged: 1170.0 prob: 0.5114509750753443 mean dist: 0.05408581172743994 mean relative dist: 0.10463835878577943 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 94
+loss: 0.5686784928675771 unchanged: 1228.0 prob: 0.514084005713839 mean dist: 0.05459448715373845 mean relative dist: 0.10461971475236274 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 95
+loss: 0.5832390601524785 unchanged: 1235.0 prob: 0.5286513919316993 mean dist: 0.054587668220779734 mean relative dist: 0.10400444685916083 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 96
+loss: 0.5860556364165475 unchanged: 1191.0 prob: 0.5317883447463161 mean dist: 0.05426729167023183 mean relative dist: 0.10382165703620126 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 97
+loss: 0.5774752315513298 unchanged: 1219.0 prob: 0.5232799850110996 mean dist: 0.054195246540230446 mean relative dist: 0.10344390047586856 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 98
+loss: 0.584297836989363 unchanged: 1226.0 prob: 0.5302550962910151 mean dist: 0.05404274069834776 mean relative dist: 0.10296347240173133 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+iteration: 99
+loss: 0.5915050127967209 unchanged: 1245.0 prob: 0.5376906497502182 mean dist: 0.05381436304650251 mean relative dist: 0.10213919315467199 sigma: 10.0 temp: 10.0
+Unchanged ever: 800
+Not all instances have counterfactual examples!!
+-------------------------- 
+Finished in: 96.69sec 

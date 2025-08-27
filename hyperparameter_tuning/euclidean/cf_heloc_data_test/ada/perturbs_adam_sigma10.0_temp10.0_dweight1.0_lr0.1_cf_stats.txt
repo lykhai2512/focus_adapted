@@ -1,0 +1,1 @@
+{"dataset": "cf_heloc_data_test", "model_type": "ada", "opt": "adam", "distance_function": "euclidean", "sigma": 10.0, "temp": 10.0, "dweight": 1.0, "lr": 0.1, "unchanged_ever": 1508, "mean_dist": 0.09332844240115644}
