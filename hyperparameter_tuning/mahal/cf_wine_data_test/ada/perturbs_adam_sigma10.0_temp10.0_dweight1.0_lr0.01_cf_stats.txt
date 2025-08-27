@@ -1,0 +1,1 @@
+{"dataset": "cf_wine_data_test", "model_type": "ada", "opt": "adam", "distance_function": "mahal", "sigma": 10.0, "temp": 10.0, "dweight": 1.0, "lr": 0.01, "unchanged_ever": 1381, "mean_dist": 0.2688415400187882, "mean_relative_dist": 0.26330725367311414, "percent_relative_dist_lt_1": 5.578231292517007}

@@ -63,7 +63,7 @@ train_name = re.sub('test', 'train', args.data_name)
 train_data = pd.read_csv(f'data/{train_name}.tsv', sep='\t', index_col=0)
 x_train = np.array(train_data.iloc[:, :-1])
 covar = utils.tf_cov(x_train)
-inv_covar = tf.linalg.inv(covar)
+inv_covar = tf.linalg.pinv(covar)
 
 # Initialize perturbed features
 perturbed = tf.Variable(initial_value=feat_input, name='perturbed_features', trainable=True)
@@ -224,4 +224,5 @@ df_perturb = pd.DataFrame(best_perturb, columns=feat_columns[:-1])
 df = pd.concat([df_dist, df_perturb], axis=1)
 
 df.to_csv(output_root + '.tsv', sep='\t')
-print("Finished!! ~{} sec".format(np.round(end_time - start_time), 2))
+print("Finished!! ~{} sec".format(np.round(end_time - start_time, 2)))
+

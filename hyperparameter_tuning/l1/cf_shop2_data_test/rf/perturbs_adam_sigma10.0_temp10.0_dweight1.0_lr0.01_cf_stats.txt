@@ -1,0 +1,1 @@
+{"dataset": "cf_shop2_data_test", "model_type": "rf", "opt": "adam", "distance_function": "l1", "sigma": 10.0, "temp": 10.0, "dweight": 1.0, "lr": 0.01, "unchanged_ever": 510, "mean_dist": 0.022836502967997857, "mean_relative_dist": 0.10660266194764073, "percent_relative_dist_lt_1": 86.13138686131387}

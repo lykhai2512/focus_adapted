@@ -1,0 +1,1 @@
+{"dataset": "cf_heloc_data_test", "model_type": "rf", "opt": "adam", "distance_function": "mahal", "sigma": 10.0, "temp": 10.0, "dweight": 1.0, "lr": 0.01, "unchanged_ever": 2295, "mean_dist": 0.18609424020083956, "mean_relative_dist": 0.13669003360837106, "percent_relative_dist_lt_1": 26.067558954748247}
