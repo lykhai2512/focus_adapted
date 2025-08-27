@@ -27,3 +27,19 @@ python main.py --sigma=1.0 --temperature=1.0 --distance_weight=0.01 --lr=0.001 -
 ## Pre-trained Models
 
 The pretrained models are available in the models folder
+
+| Dataset         | Model Type | Model File Name                          | Data File Name               |
+|----------------|------------|------------------------------------------|------------------------------|
+| cf_compas_num  | ADA        | model_ada_cf_compas_num_iter100_depth2_lr0.1 | cf_compas_num_data_test.tsv |
+| cf_compas_num  | DT         | model_dt_cf_compas_num_depth4               | cf_compas_num_data_test.tsv |
+| cf_compas_num  | RF         | model_rf_cf_compas_num_iter500_depth4       | cf_compas_num_data_test.tsv |
+| cf_heloc       | ADA        | model_ada_cf_heloc_iter100_depth8_lr0.1     | cf_heloc_data_test.tsv      |
+| cf_heloc       | DT         | model_dt_cf_heloc_depth4                    | cf_heloc_data_test.tsv      |
+| cf_heloc       | RF         | model_rf_cf_wine_iter500_depth4             | cf_heloc_data_test.tsv      |
+| cf_shop2       | ADA        | model_ada_cf_shop2_iter100_depth8_lr0.1     | cf_shop2_data_test.tsv      |
+| cf_shop2       | DT         | model_dt_cf_shop2_depth4                    | cf_shop2_data_test.tsv      |
+| cf_shop2       | RF         | model_rf_cf_wine_iter500_depth4             | cf_shop2_data_test.tsv      |
+| cf_wine        | ADA        | model_ada_cf_shop2_iter100_depth8_lr0.1     | cf_wine_data_test.tsv       |
+| cf_wine        | DT         | model_dt_cf_shop2_depth4                    | cf_wine_data_test.tsv       |
+| cf_wine        | RF         | model_rf_cf_wine_iter500_depth4             | cf_wine_data_test.tsv       |
+
