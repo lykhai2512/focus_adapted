@@ -1,0 +1,1 @@
+{"dataset": "cf_compas_num_data_test", "model_type": "rf", "opt": "adam", "distance_function": "l1", "sigma": 10.0, "temp": 10.0, "dweight": 1.0, "lr": 0.01, "unchanged_ever": 503, "mean_dist": 0.05439981550438607, "mean_relative_dist": 0.12158826958406435, "percent_relative_dist_lt_1": 72.8401727861771}

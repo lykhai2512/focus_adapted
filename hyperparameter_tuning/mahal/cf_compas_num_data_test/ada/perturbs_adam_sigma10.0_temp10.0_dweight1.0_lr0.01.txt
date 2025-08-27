@@ -499,4 +499,4 @@ loss: 0.5915050127967209 unchanged: 1245.0 prob: 0.5376906497502182 mean dist: 0
 Unchanged ever: 800
 Not all instances have counterfactual examples!!
 -------------------------- 
-Finished in: 96.69sec 
+Finished in: 66.41sec 
